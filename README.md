@@ -1,7 +1,7 @@
 # Secure-Data-and-Applications
 
 - [Azure Key Vault Service](https://github.com/earkevin11/Azure-Key-Vault-Service)<br>
-- [Azure Service Endpoints]
+- [Azure Service Endpoints](https://github.com/earkevin11/Azure-Service-Endpoints)
 - [Azure Key Vault - Service endpoints]
 - [Encryption at Rest and Transit]
 - [Azure Service Endpoint - Trusted Services]
