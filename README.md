@@ -6,6 +6,7 @@
 - [Managed Service Identity](https://github.com/earkevin11/Managed-Service-Identity)
 - [Azure SQL Database](https://github.com/earkevin11/Azure-SQL-Database)
 - [Azure SQL Database Data Masking and Server auditing](https://github.com/earkevin11/Data-Masking-and-Server-Auditing)
+- [Azure SQL Database - Service Endpoints and Vulnerability Assessments](https://github.com/earkevin11/Service-Endpoints-and-Vulnerability-Assessments)
 - [Azure Storage Accounts]
 - [Azure Blob Service]
 - [Private Endpoints]
