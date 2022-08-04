@@ -11,4 +11,6 @@
 - [Azure Storage - Firewall and Network settings](https://github.com/earkevin11/Firewall-and-Network-Settings)
 - [Azure AD Authentication for Azure Files - Implementation Review](https://github.com/earkevin11/Azure-AD-Authentication-for-Azure-Files---Implementation-Review)
 - [Private Endpoints](https://github.com/earkevin11/Private-Endpoints)
-- [Azure Web Apps]()
+- [Quick Note on CosmosDB and Synapse Network Settings](https://github.com/earkevin11/CosmosDB-and-Synapse-Network-Settings)
+- [Note on Managed Identity for Function Apps](https://github.com/earkevin11/Managed-Identity-for-Function-Apps)
+- [Azure Web Apps](https://github.com/earkevin11/Azure-Web-Apps)
