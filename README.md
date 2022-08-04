@@ -8,6 +8,7 @@
 - [Azure SQL Database Data Masking and Server auditing](https://github.com/earkevin11/Data-Masking-and-Server-Auditing)
 - [Azure SQL Database - Service Endpoints and Vulnerability Assessments](https://github.com/earkevin11/Service-Endpoints-and-Vulnerability-Assessments)
 - [Azure Storage Accounts](https://github.com/earkevin11/Storage-Accounts)
+- [Azure Storage - Firewall and Network settings](https://github.com/earkevin11/Firewall-and-Network-Settings)
 - [Azure Blob Service]
 - [Private Endpoints]
 - [Azure Web Apps]
