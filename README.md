@@ -9,6 +9,6 @@
 - [Azure SQL Database - Service Endpoints and Vulnerability Assessments](https://github.com/earkevin11/Service-Endpoints-and-Vulnerability-Assessments)
 - [Azure Storage Accounts](https://github.com/earkevin11/Storage-Accounts)
 - [Azure Storage - Firewall and Network settings](https://github.com/earkevin11/Firewall-and-Network-Settings)
-- [Azure Blob Service]
-- [Private Endpoints]
-- [Azure Web Apps]
+- [Azure AD Authentication for Azure Files - Implementation Review](https://github.com/earkevin11/Azure-AD-Authentication-for-Azure-Files---Implementation-Review)
+- [Private Endpoints]()
+- [Azure Web Apps]()
