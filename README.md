@@ -10,5 +10,5 @@
 - [Azure Storage Accounts](https://github.com/earkevin11/Storage-Accounts)
 - [Azure Storage - Firewall and Network settings](https://github.com/earkevin11/Firewall-and-Network-Settings)
 - [Azure AD Authentication for Azure Files - Implementation Review](https://github.com/earkevin11/Azure-AD-Authentication-for-Azure-Files---Implementation-Review)
-- [Private Endpoints]()
+- [Private Endpoints](https://github.com/earkevin11/Private-Endpoints)
 - [Azure Web Apps]()
